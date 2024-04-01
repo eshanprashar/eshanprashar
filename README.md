@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**eshanprashar/eshanprashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a grad student at UChicago studying Data Science and Public Policy. I'm currently exploring data-centric PM roles (platform/cloud/ML). My technical PM toolkit includes:
+ 
+ 1. **Design and Prototyping:** Figma,Whimsical
+ 2. **Programming:** Excel(VBA), python, R, SQL
+ 3. **ML-specific libraries:** Pytorch, TensorFlow, Keras, scikitlearn, HuggingFace
+ 4. **Cloud platforms:** AWS - comfortable with EC2, EBS, DynamoDB, Glacier, Lambda, SQS, SNS and Bedrock
+ 5. **Visualization:** Tableau, python (seaborn, plotly),R (ggplot2) 
 
-Here are some ideas to get you started:
+Over the last 7 years, I've contributed in Analytics and Product roles in nimble, constraint-laden environments across consulting, a grassroots education nonprofit and a unicorn startup. The first role gave me a crash course in business, and the last two helped shape my systems-thinking around policy, business and technology. I got tremendous insight into the Indian education system, both from a supply and demand side.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check out the linked repositories below to get a better sense of my skillset:
+
+1. [Setting up data pipeline for record linkage (Jun'23-Feb'24)](https://github.com/eshanprashar/residential-solar) 🌞
+2. [Old decks / designs](https://github.com/eshanprashar/decks-and-designs/tree/main) 🎨
+3. [Gene annotator app hosted on AWS](https://github.com/eshanprashar/cloud-annotator) ☁️
+4. [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
+5. [Core python programming coursework](https://github.com/eshanprashar/capp-coursework/tree/main) 🐍
+6. [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/watts-up-ca) :electron:   
+
