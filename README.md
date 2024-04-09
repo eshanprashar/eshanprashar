@@ -17,5 +17,5 @@ You can check out the linked repositories below to get a better sense of my skil
 3. [Gene annotator app hosted on AWS](https://github.com/eshanprashar/cloud-annotator) ☁️
 4. [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
 5. [Core python programming coursework](https://github.com/eshanprashar/capp-coursework/tree/main) 🐍
-6. [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/watts-up-ca) :electron:   
+6. [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) :electron:   
 
