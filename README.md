@@ -13,10 +13,13 @@ Over the last 7 years, I've contributed in Analytics and Product roles in nimble
 
 You can check out the linked repositories below to get a better sense of my skillset:
 
-1. [Setting up data pipeline for record linkage (Jun'23-Feb'24)](https://github.com/eshanprashar/residential-solar) 🌞
-2. [Old decks / designs](https://github.com/eshanprashar/decks-and-designs/tree/main) 🎨
-3. [Gene annotator app hosted on AWS](https://github.com/eshanprashar/cloud-annotator) ☁️
-4. [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
-5. [Core python programming coursework](https://github.com/eshanprashar/capp-coursework/tree/main) 🐍
-6. [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) :electron:   
+1. [User-focused design and analysis](https://github.com/eshanprashar/decks-and-designs/tree/main) 🎨
 
+2. **Programming**
+   * [Gene annotator app hosted on AWS](https://github.com/eshanprashar/cloud-annotator) ☁️
+   * [Core python programming coursework](https://github.com/eshanprashar/capp-coursework/tree/main) 🐍
+     
+3. **Data Science**
+   * [Identifying rooftop solar permits on newly constructed single family homes](https://github.com/eshanprashar/residential-solar)
+   * [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
+   * [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) :electron:
