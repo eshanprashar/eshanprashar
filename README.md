@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a grad student at UChicago studying Data Science and Public Policy. I'm currently exploring data-centric PM roles (platform/cloud/ML). My technical PM toolkit includes:
+I'm a grad student at UChicago studying Data Science and Public Policy. I'm currently exploring **data-centric PM roles** (platform/cloud/ML) and **PM-centric data science roles** (designing acquisition/retention/referral funnels). My technical PM toolkit includes:
  
  1. **Design and Prototyping:** Figma,Whimsical
  2. **Programming:** Excel(VBA), python, R, SQL
@@ -8,7 +8,8 @@ I'm a grad student at UChicago studying Data Science and Public Policy. I'm curr
  4. **Cloud platforms:** AWS - comfortable with EC2, EBS, DynamoDB, Glacier, Lambda, SQS, SNS and Bedrock
  5. **Visualization:** Tableau, python (seaborn, plotly),R (ggplot2) 
 
-Over the last 7 years, I've contributed in Analytics and Product roles in nimble, constraint-laden environments across consulting, a grassroots education nonprofit and a unicorn startup. The first role gave me a crash course in business, and the last two helped shape my systems-thinking around policy, business and technology. I got tremendous insight into the Indian education system, both from a supply and demand side.   
+Over the last 7 years, I've contributed in Analytics and Product roles in nimble, constraint-laden environments across consulting, a grassroots education nonprofit and a unicorn startup. The first role gave me a crash course in business, and the last two helped shape my systems-thinking around policy, business and technology. I got tremendous insight into the Indian education system, both from a supply and demand side. 
+
 
 You can check out the linked repositories below to get a better sense of my skillset:
 
