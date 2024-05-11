@@ -13,13 +13,14 @@ Over the last 7 years, I've contributed in Analytics and Product roles in nimble
 
 You can check out the linked repositories below to get a better sense of my skillset:
 
-1. [User-focused design and analysis](https://github.com/eshanprashar/decks-and-designs/tree/main) 🎨
+1. **User-focused analysis and design**
+   * [Tableau and Figma samples](https://github.com/eshanprashar/decks-and-designs/tree/main) 🎨
 
-2. **Programming**
+3. **Programming**
    * [Gene annotator app hosted on AWS](https://github.com/eshanprashar/cloud-annotator) ☁️
    * [Core python programming coursework](https://github.com/eshanprashar/capp-coursework/tree/main) 🐍
      
-3. **Data Science**
+4. **Data Science**
    * [Identifying rooftop solar permits on newly constructed single family homes](https://github.com/eshanprashar/residential-solar)
    * [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
    * [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) :electron:
