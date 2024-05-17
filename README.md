@@ -14,8 +14,8 @@ Over the last 7 years, I've contributed in Analytics and Product roles in nimble
 Please feel free to check the links below to get a better sense of my skillset:
 
 1. **Writing Samples**
-   * [Missouri's Failed TOU Implementation: Rates, Resistance and Power Games](https://github.com/eshanprashar/writing-samples/blob/main/Missouri%20TOU%20Implementation-2023-24.pdf)
-   * [FTC Lawsuit against Amazon: Small Business Owners Stand to Gain](https://github.com/eshanprashar/writing-samples/blob/main/Amazon%20FTC%20Lawsuit-2023.pdf)
+   * [Missouri's Failed TOU Implementation: Rates, Resistance and Power Games](https://github.com/eshanprashar/writing-samples/blob/main/Missouri%20TOU%20Implementation-2023-24.pdf) 🔌
+   * [FTC Lawsuit against Amazon: Small Business Owners Stand to Gain](https://github.com/eshanprashar/writing-samples/blob/main/Amazon%20FTC%20Lawsuit-2023.pdf) 🚫
 
 3. **User-focused analysis and design**
    * [Tableau and Figma samples](https://github.com/eshanprashar/decks-and-designs/tree/main) 🎨
@@ -27,4 +27,4 @@ Please feel free to check the links below to get a better sense of my skillset:
 5. **Data Science**
    * [Identifying rooftop solar permits on newly constructed single family homes](https://github.com/eshanprashar/residential-solar)
    * [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
-   * [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) :electron:
+   * [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) 🏘️ :electron:
