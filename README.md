@@ -11,16 +11,20 @@ I'm a grad student at UChicago studying Data Science and Public Policy. I'm curr
 Over the last 7 years, I've contributed in Analytics and Product roles in nimble, constraint-laden environments across consulting, a grassroots education nonprofit and a unicorn startup. The first role gave me a crash course in business, and the last two helped shape my systems-thinking around policy, business and technology. I got tremendous insight into the Indian education system, both from a supply and demand side. 
 
 
-You can check out the linked repositories below to get a better sense of my skillset:
+Please feel free to check the links below to get a better sense of my skillset:
 
-1. **User-focused analysis and design**
+1. **Writing Samples**
+   * []()
+   * []()
+
+3. **User-focused analysis and design**
    * [Tableau and Figma samples](https://github.com/eshanprashar/decks-and-designs/tree/main) 🎨
 
-3. **Programming**
+4. **Programming**
    * [Gene annotator app hosted on AWS](https://github.com/eshanprashar/cloud-annotator) ☁️
    * [Core python programming coursework](https://github.com/eshanprashar/capp-coursework/tree/main) 🐍
      
-4. **Data Science**
+5. **Data Science**
    * [Identifying rooftop solar permits on newly constructed single family homes](https://github.com/eshanprashar/residential-solar)
    * [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
    * [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) :electron:
