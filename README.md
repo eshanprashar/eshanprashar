@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a grad student at UChicago studying Data Science and Public Policy. I'm currently exploring **data-centric PM roles** (platform/cloud/ML) and **PM-centric data science roles** (designing acquisition/retention/referral funnels). My technical PM toolkit includes:
+I'm a grad student at UChicago studying Data Science and Public Policy. I'm currently exploring Data Science roles in Product Analytics. My technical toolkit includes:
  
  1. **Design and Prototyping:** Figma,Whimsical
  2. **Programming:** Excel(VBA), python, R, SQL
