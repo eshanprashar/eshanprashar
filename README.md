@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a grad student at UChicago studying Data Science and Public Policy. I'm currently exploring Data Science roles in Product Analytics. My technical toolkit includes:
+I'm a UChicago grad in Computer Science and Public Policy. I'm currently exploring Data Science roles in Product Analytics. My technical toolkit includes:
  
  1. **Design and Prototyping:** Figma,Whimsical
  2. **Programming:** Excel(VBA), python, R, SQL
