@@ -24,6 +24,6 @@ Please feel free to check the links below to get a better sense of my skillset:
    * [Core python programming coursework](https://github.com/eshanprashar/capp-coursework/tree/main) 🐍
      
 5. **Data Science**
-   * [Identifying rooftop solar permits on newly constructed single family homes](https://github.com/eshanprashar/residential-solar)
+   * [Identifying rooftop solar permits on newly constructed single family homes](https://github.com/eshanprashar/residential-solar)(https://github.com/eshanprashar/residential-solar-analysis?tab=readme-ov-file)
    * [Talk to authors using fine-tuned GPT-2](https://github.com/eshanprashar/author-ai/tree/main) 🤖
    * [Forecasting residential electricity consumption in California](https://github.com/eshanprashar/energy-forecasting/tree/main) 🏘️ :electron:
