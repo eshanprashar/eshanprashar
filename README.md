@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a UChicago Computer Science and Public Policy grad. I'm currently exploring Data Science roles in Product Analytics. My technical toolkit includes:
+I'm a Product oriented Data Scientist with 7+ years of experience in various data roles. My technical toolkit includes:
  
  1. **Design and Prototyping:** Figma,Whimsical
  2. **Programming:** Excel(VBA), python, R, SQL
@@ -8,7 +8,7 @@ I'm a UChicago Computer Science and Public Policy grad. I'm currently exploring 
  4. **Cloud platforms:** AWS - comfortable with EC2, EBS, DynamoDB, Glacier, Lambda, SQS, SNS and Bedrock
  5. **Visualization:** Tableau, python (seaborn, plotly), R (ggplot2) 
 
-Over the last 7 years, I've contributed in Analytics and Product roles in nimble, constraint-laden environments across consulting, a grassroots education nonprofit and a unicorn startup. The first role gave me a crash course in business, and the last two helped shape my systems-thinking around policy, business and technology. I got tremendous insight into the Indian education system, both from a supply and demand side. 
+I've contributed in Analytics and Product roles in nimble, constraint-laden environments across consulting, research and a unicorn startup. The first role gave me a crash course in business, and the last two helped shape my systems-thinking around policy, business and technology. I got tremendous insight into the Indian education system, both from a supply and demand side. 
 
 Please feel free to check the links below to get a better sense of my skillset:
 
